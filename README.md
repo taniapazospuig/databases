@@ -1,6 +1,6 @@
 ## Databases - Universitat Pompeu Fabra
 
-This repository contains my group deliverables for the **Databases** course, a third-year subject in the Bachelor's degree on *Mathematical Engineering on Data Science* at Universitat Pompeu Fabra, Barcelona. The deliverables in this repository correspond to the **2024 edition** of the course.
+This repository contains my group deliverables for the **Databases** course, a third-year subject in the Bachelor's degree on *Mathematical Engineering on Data Science* at Universitat Pompeu Fabra, Barcelona.
 
 ### Project Details
 
